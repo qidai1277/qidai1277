@@ -1,8 +1,8 @@
 <div align="center"> <h2>忠言逆耳。</h2> </div>
 
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ting24678&show_icons=true&locale=cn&layout=compact" alt="ting24678" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ting24678&show_icons=true&locale=cn" alt="ting24678" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qidai1277&show_icons=true&locale=cn&layout=compact" alt="qidai1277" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=qidai1277&show_icons=true&locale=cn" alt="qidai1277" />
 </div>
 
-- **DockerHub**: [ting24678 | Docker Hub](https://hub.docker.com/u/ting24678) 
+- **DockerHub**: [qidai1277 | Docker Hub](https://hub.docker.com/u/qidai1277) 
